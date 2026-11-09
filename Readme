@@ -1,0 +1,94 @@
+# JavaScript Practice Projects
+
+## About the Project
+This repository contains JavaScript practice files and small projects developed to improve my understanding of JavaScript programming.
+
+The exercises cover JavaScript fundamentals, problem-solving, functions, arrays, objects, loops, and DOM manipulation.
+
+## Technologies Used
+- JavaScript (JS)
+- HTML5
+- CSS3
+- Visual Studio Code
+- Git and GitHub
+
+## Project Structure
+
+```text
+javascript-practice/
+│
+├── README.md
+├── calculator.js
+├── grade-tracker.js
+├── fizzbuzz.js
+├── palindrome.js
+├── largest-number.js
+├── remove-duplicates.js
+├── reverse-string.js
+└── index.html
+```
+
+## JavaScript Exercises
+
+The repository includes the following exercises:
+
+1. **Calculator** – Performs basic mathematical operations.
+2. **Student Grade Tracker** – Stores student names and grades and calculates averages.
+3. **FizzBuzz** – Prints Fizz, Buzz, or FizzBuzz based on number conditions.
+4. **Palindrome Checker** – Checks whether a word reads the same forward and backward.
+5. **Largest Number** – Finds the largest number in an array using loops.
+6. **Remove Duplicates** – Removes repeated values from an array.
+7. **Reverse String** – Reverses a given string.
+
+## Requirements
+To run these JavaScript files, you need:
+
+- A computer.
+- Visual Studio Code.
+- Node.js installed.
+- Basic knowledge of JavaScript.
+
+## How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/javascript-practice.git
+```
+
+2. Open the project folder:
+
+```bash
+cd javascript-practice
+```
+
+3. Open the folder in VS Code:
+
+```bash
+code .
+```
+
+4. Run a JavaScript file using Node.js:
+
+```bash
+node fizzbuzz.js
+```
+
+Replace `fizzbuzz.js` with the name of the file you want to execute.
+
+## Learning Objectives
+
+- Understand JavaScript variables and data types.
+- Practice functions and conditional statements.
+- Work with arrays and objects.
+- Understand loops and iteration.
+- Develop problem-solving skills.
+- Learn basic DOM manipulation.
+- Practice writing clean and reusable JavaScript code.
+
+## Author
+
+**Clement Wahome**
+
+
+
